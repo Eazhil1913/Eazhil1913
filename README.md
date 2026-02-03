@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi, I'm Eazhil
 
-<!--
-**Eazhil1913/Eazhil1913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cyber Security Beginner  
+🎯 Learning Ethical Hacking & SOC Basics  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Networking Basics (TCP/IP, HTTP)
+- Linux Basics
+- Cyber Security Fundamentals
+
+---
+
+### 🛠️ Tools I'm Learning
+- Nmap
+- Wireshark
+- Kali Linux
+- Burp Suite (Basics)
+
+---
+
+### 📘 Practice Areas
+- Port Scanning
+- Network Traffic Analysis
+- Basic Web Security
+
+---
+
+### 🚀 Goal
+To become a Cyber Security Professional
+
+---
+
+### 📫 Contact
+- Email: eazhil2002@gmail.com
