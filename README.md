@@ -2,18 +2,35 @@
   <img src="https://github.com/Eazhil1913.png" alt="Eazhil profile avatar" width="180" height="180" style="border-radius: 50%; border: 3px solid #7dd3fc; box-shadow: 0 0 26px rgba(125, 211, 252, 0.35); background: #020817;" />
 </div>
 
-<h1 align="center">Eazhil Amuthavan</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20Cybersecurity-38bdf8?style=for-the-badge&logo=lock&logoColor=white" alt="Status: Learning Cybersecurity" />
-  <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-0ea5e9?style=for-the-badge&logo=shield&logoColor=white" alt="Focus: Ethical Hacking" />
-  <img src="https://img.shields.io/badge/Location-India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: India" />
+  <code>eazhil@terminal:~$ whoami</code><br>
+  <strong>Eazhil Amuthavan</strong>
 </p>
 
 <p align="center">
-  <strong>Cyber Security Beginner</strong><br>
-  Learning Linux, networking, SOC basics, and ethical hacking fundamentals.
+  <img src="https://img.shields.io/badge/Mode-Cybersecurity%20Learning-0ea5e9?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity learning mode" />
+  <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-38bdf8?style=for-the-badge&logo=terminal&logoColor=white" alt="Ethical hacking focus" />
+  <img src="https://img.shields.io/badge/Location-India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="India" />
 </p>
+
+<p align="center">
+  <strong>Cyber Security Beginner</strong> • Learning Linux, networking, SOC basics, and practical security workflows.
+</p>
+
+---
+
+<h3 align="center">Terminal overview</h3>
+
+```bash
+eazhil@terminal:~$ uname -a
+Linux security-lab 6.1.0-xx
+
+eazhil@terminal:~$ whois skills
+Networking  ████████ 80%
+Linux       █████████ 90%
+Security    ██████░░░ 60%
+Ethical Hacking  █████░░░ 55%
+```
 
 ---
 
@@ -25,7 +42,7 @@
 - Networking fundamentals: TCP/IP, HTTP
 - Linux essentials and shell workflows
 - Cybersecurity foundations and attack surfaces
-- Practical security learning and defensive thinking
+- Security tooling and hands-on practice
 
 ### Tools I'm learning
 - Nmap
@@ -43,7 +60,7 @@
 - Security reconnaissance and fundamentals
 
 ### Goal
-To grow into a capable cyber security professional through consistent hands-on learning and strong technical foundations.
+To become a capable cyber security professional through consistent hands-on learning and strong technical foundations.
 
     </td>
   </tr>
@@ -51,13 +68,31 @@ To grow into a capable cyber security professional through consistent hands-on l
 
 ---
 
-### Quick profile
-<p>
-  <img src="https://img.shields.io/badge/OS-Linux-22272e?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skills-Networking-2563eb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Skills-Security-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-Hands-on-10b981?style=flat-square" />
+<h3 align="center">Popular repositories</h3>
+
+<p align="center">
+  <a href="https://github.com/Eazhil1913/-workunit-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eazhil1913&repo=-workunit-dashboard&theme=tokyonight&show_owner=true" alt="WorkUnit Dashboard" />
+  </a>
+  <a href="https://github.com/Eazhil1913/burp-suite-basics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eazhil1913&repo=burp-suite-basics&theme=tokyonight&show_owner=true" alt="Burp Suite Basics" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Eazhil1913/nmap-basic-scanning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eazhil1913&repo=nmap-basic-scanning&theme=tokyonight&show_owner=true" alt="Nmap Basics" />
+  </a>
+  <a href="https://github.com/Eazhil1913/daily-commit-demo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eazhil1913&repo=daily-commit-demo&theme=tokyonight&show_owner=true" alt="Daily Commit Demo" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eazhil1913&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</div>
 
 ---
 
